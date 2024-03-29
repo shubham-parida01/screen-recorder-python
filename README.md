@@ -59,4 +59,4 @@ This code is provided under the MIT License. You are free to use, modify, and di
 
 **Social Info**
 This code has also been shared on the following socials:
-- [Twitter][https://x.com/shub_game0/status/1773661858236334382?s=20]
+- [Twitter](https://x.com/shub_game0/status/1773661858236334382?s=20)
