@@ -56,3 +56,7 @@ This code is provided under the MIT License. You are free to use, modify, and di
 - Depending on your system resources and screen resolution, the recording quality and frame rate might vary.
 - You can modify the resolution and codec settings in the script to adjust the video quality and file size.
 - Consider adding error handling for potential issues during recording.
+
+**Social Info**
+This code has also been shared on the following socials:
+- Twitter[https://x.com/shub_game0/status/1773661858236334382?s=20]
