@@ -1,7 +1,4 @@
-# screen-recorder-python
-## README.md
-
-**Project Name:** Screen Recorder
+## **Project Name:** Screen Recorder
 
 **Description:**
 
